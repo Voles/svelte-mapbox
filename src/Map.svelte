@@ -53,10 +53,6 @@
     queue.send('resize')
   }
 
-  export function locate () {
-    queue.send('locate')
-  }
-
   export function getMap () {
     return map
   }
