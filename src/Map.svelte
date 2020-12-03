@@ -25,7 +25,7 @@
   const dispatch = createEventDispatcher()
 
   export let map = null
-  export let version = 'v1.11.0'
+  export let version = 'v1.12.0'
 
   let container
   let mapbox
